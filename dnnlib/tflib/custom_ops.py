@@ -1,5 +1,8 @@
 # Copyright (c) 2019, NVIDIA Corporation. All rights reserved.
-#
+
+# Edited by a-leut 2021!!!!!!!!!!!!!!!!!!!!!!!!!
+# See https://stackoverflow.com/questions/59342888/tensorflow-error-this-file-requires-compiler-and-library-support-for-the-iso-c
+
 # This work is made available under the Nvidia Source Code License-NC.
 # To view a copy of this license, visit
 # https://nvlabs.github.io/stylegan2/license.html
